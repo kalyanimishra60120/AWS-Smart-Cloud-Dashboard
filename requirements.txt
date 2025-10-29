@@ -1,0 +1,6 @@
+boto3
+rich
+pandas
+schedule
+python-dotenv
+pytest
